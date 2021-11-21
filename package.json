@@ -1,0 +1,13 @@
+{
+  "name": "wiki-demo-app",
+  "version": "1.0.0",
+  "description": "a discord.js app that customises wiki images for my projects 🐾",
+  "main": "index.js",
+  "author": "magicalbunny31",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "fuzzysort": "^1.1.4"
+  }
+}
